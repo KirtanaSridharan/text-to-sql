@@ -17,9 +17,3 @@ This project implements a Text-to-SQL system that generates context-aware SQL qu
 ## Datasets
 - **WikiSQL**: For training and evaluating SQL query generation.
 - **Spider**: For enhancing the system's performance on complex queries.
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
